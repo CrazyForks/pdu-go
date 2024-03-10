@@ -1,7 +1,6 @@
 package socket
 
 import (
-	_ "../model"
 	"runtime"
 )
 

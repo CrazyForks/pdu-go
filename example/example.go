@@ -1,9 +1,9 @@
 package main
 
 import (
-	"../model"
 	"encoding/hex"
 	"fmt"
+	"github.com/evsio0n/pdu-go/model"
 	"time"
 )
 
